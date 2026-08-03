@@ -1,0 +1,8 @@
+node_modules/
+out/
+work/captions/captions.raw.json
+work/captions/captions_aligned.json
+work/captions/captions.array.ts
+public/assets/audio/voice.mp3
+public/assets/audio/voice.m4a
+*.log
