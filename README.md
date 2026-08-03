@@ -17,14 +17,10 @@ Agent skill : 把一段播客/口播音频，变成**1080×1920 竖屏短视频*
 
 **已验证案例**（全部 1080×1920 竖屏）：
 
-| 案例               | 主题                 | 时长   | 章节 | 场景 | 主题配色       |
-| ---------------- | ------------------ | ---- | -- | -- | ----------- |
-| 股票尽调            | Stock Deep Research | 284s | 9  | 9  | 红 + 金      |
-| seekmoney         | AI 商机挖掘            | 386s | 9  | 9  | 翠绿 + 金     |
-| geo-skill         | geo_optimizer      | 154s | 7  | 7  | 靛蓝 + 青     |
-| 外贸ai             | Exa Research MCP   | 289s | 9  | 9  | 青绿 + 琥珀    |
-| edulab            | EduLab 交互教学技能集    | 457s | 9  | 12 | 米色 + 靛蓝    |
-| tikhub            | TikHub API Skill   | 216s | 10 | 10 | 亮粉 + 青     |
+https://www.bilibili.com/video/BV1TTMd6sEE7/?vd_source=86926e418c83af75f6850b5546388a79
+
+https://www.bilibili.com/video/BV1XgMX6REpy/
+
 
 ***
 
